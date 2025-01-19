@@ -2,7 +2,8 @@
 
 # Square Java SDK
 
-[![Travis status](https://travis-ci.com/square/square-java-sdk.svg?branch=master)](https://travis-ci.com/square/square-java-sdk)
+[![Travis status](https://travis-ci.com/square/square-java-sdk.svg?branch=master)](https://travis-ci.com/square/square-java-sdk)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-java-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-java-sdk?ref=badge_shield)
+
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.squareup/square/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.squareup/square)
 [![Apache-2 license](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -192,3 +193,7 @@ You'll also need to provide logic to handle paginated results.  For more informa
 [Employees]: doc/api/employees.md
 [Transactions]: doc/api/transactions.md
 [Webhook Subscriptions]: doc/api/webhook-subscriptions.md
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-java-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsquare-java-sdk?ref=badge_large)
